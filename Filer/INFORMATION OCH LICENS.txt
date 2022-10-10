@@ -1,0 +1,5 @@
+Alla filer skapade av Adam Dahlberg under åren 2020, 2021, 2022 och 2023 för bruk i Makerspace, NTI Johanneberg.
+
+3D-filer Makerspace NTI Johanneberg © 2022 by Adam Dahlberg is licensed under CC BY-SA 4.0. To view a copy of this license, visit http://creativecommons.org/licenses/by-sa/4.0/
+
+Filer tillhandahålls i .f3d-, .f3z-, .stl- och .3mf-format. .f3...-filer öppnas med CAD-programmet Autodesk Fusion 360. .f3z är en komprimerad mapp med .f3d-filer. .stl. och .3mf-filer är mesh-filer som endast bör öppnas i ett slicerprogram.
